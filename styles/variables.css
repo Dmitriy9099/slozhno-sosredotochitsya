@@ -1,8 +1,13 @@
-:root{
+:root {
   --background-color: #000028;
-  --background-accent-color: #FF0070;
-  --text-color: #F1B2CE;
+  --background-accent-color: #ff0070;
+  --text-color: #f1b2ce;
   --accent-text-color: #000028;
-  --head-color: #FF0070;
-  --main-font: 'IBM Plex mono';
+  --head-color: #ff0070;
+  --main-title: #db00ff;
+  --main-font: "IBM Plex mono";
+  --background-image: url(../images/cover-image-dark.png);
+  --shadow: #ff0070;
+  --decor: #ff0070;
+  --decor-point: #ff0070;
 }
